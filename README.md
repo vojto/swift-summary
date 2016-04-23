@@ -3,6 +3,9 @@
 A summary of Apple's Swift language written on Playgrounds.
 
 
+taak toto je paradicka
+
+
 ###Why this summary?
 Apple's documentation is great for learning Swift, but who's got the time to read all that? :smile:
 
